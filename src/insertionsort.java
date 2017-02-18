@@ -2,7 +2,7 @@
 public class insertionsort {
 	public static void sort(int arr[])
 	{
-		
+		System.out.println("Pull test");
 		int n=arr.length;
 		for(int i=1;i<n;i++)
 		{
